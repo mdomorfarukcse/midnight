@@ -1,0 +1,199 @@
+<?php
+
+namespace Pemm\Views\Notification;
+
+use Pemm\Model\Customer;
+use Pemm\Model\Helper;
+use Pemm\Model\Order;
+use Pemm\Model\Setting;
+
+class CustomerMail
+{
+    public static function Confirmation(Customer $customer)
+    {
+        global $container;
+
+        /* @var Setting $setting */
+        $setting = $container->get('setting');
+
+        $reference = Helper::generateRandomString(64);
+        $customer->setReference($reference);
+        $customer->save();
+        $referenceUrl = $setting->getSiteUrl() . '/panel/account-activation?reference=' . $reference;
+
+        $content[] = '<!doctype html>
+                        <html lang="en-US">
+                        <head>
+                            <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+                            <title>Account Activation</title>
+                            <meta name="description" content="Forgot Password">
+                            <style type="text/css">
+                                a:hover {
+                                    text-decoration: underline !important;
+                                }
+                            </style>
+                        </head>
+
+                        <body marginheight="0" topmargin="0" marginwidth="0" style="margin: 0px; background-color: #0e1726;" leftmargin="0">
+                        <!--100% body table-->
+                        <table cellspacing="0" border="0" cellpadding="0" width="100%" bgcolor="#0e1726"
+                               style="@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Open+Sans:300,400,600,700); font-family: \'Open Sans\', sans-serif;">
+                            <tr>
+                                <td>
+                                    <table style="background-color: #0e1726; max-width:670px;  margin:0 auto;" width="100%" border="0"
+                                           align="center" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td style="height:80px;">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:center;">
+                                                <a href="' . $setting->getSiteUrl() . '" title="logo" target="_blank">
+                                                    <img width="128px" src="' . $setting->getSiteUrl() . $setting->getSiteEmailLogo(true) .'"
+                                                         title="logo" alt="logo">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="height:20px;">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0"
+                                                       style="max-width:670px;background:#fff; border-radius:3px; text-align:center;-webkit-box-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);">
+                                                    <tr>
+                                                        <td style="height:40px;">&nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding:0 35px;">
+                                                            <h1 style="color:#1e1e2d; font-weight:500; margin:0;font-size:28px;font-family: \'Open Sans\', sans-serif;">Welcome ' . $setting->getSiteName() . '</h1>
+                                                            <span style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #cecece; width:100px;"></span>
+                                                            <p style="color:#455056; font-size:15px;line-height:24px; margin:0;">
+                                                                Name :  ' . $customer->getFullName() . ' <br>
+                                                                E-Mail :  ' . $customer->getEmail() . '  <br>
+                                                                Activation :  <a href="' . $referenceUrl . '">' . $referenceUrl . '</a>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="height:40px;">&nbsp;</td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        <tr>
+                                            <td style="height:20px;">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:center;">
+                                                <p style="font-size:14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height:18px; margin:0 0 0;">
+                                                    &copy; <strong>' . $setting->getSiteName() . '</strong></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="height:80px;">&nbsp;</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        </body>
+                        </html>
+                        ';;
+
+
+        return implode(' ', $content);
+
+    }
+
+    public static function forgotPassword(Customer $customer)
+    {
+        global $container;
+
+        /* @var Setting $setting */
+        $setting = $container->get('setting');
+
+        $reference = Helper::generateRandomString(64);
+        $customer->setReference($reference);
+        $customer->save();
+        $referenceUrl = $setting->getSiteUrl() . '/panel/forgot-password?reference=' . $reference;
+
+        $content[] = '<!doctype html>
+                        <html lang="en-US">
+                        <head>
+                            <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+                            <title>Forgot Password</title>
+                            <meta name="description" content="Forgot Password">
+                            <style type="text/css">
+                                a:hover {
+                                    text-decoration: underline !important;
+                                }
+                            </style>
+                        </head>
+
+                        <body marginheight="0" topmargin="0" marginwidth="0" style="margin: 0px; background-color: #0e1726;" leftmargin="0">
+                        <!--100% body table-->
+                        <table cellspacing="0" border="0" cellpadding="0" width="100%" bgcolor="#0e1726"
+                               style="@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Open+Sans:300,400,600,700); font-family: \'Open Sans\', sans-serif;">
+                            <tr>
+                                <td>
+                                    <table style="background-color: #0e1726; max-width:670px;  margin:0 auto;" width="100%" border="0"
+                                           align="center" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td style="height:80px;">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:center;">
+                                                <a href="' . $setting->getSiteUrl() . '" title="logo" target="_blank">
+                                                <img width="128px" src="' . $setting->getSiteUrl() . $setting->getSiteEmailLogo(true) .'"
+                                                     title="logo" alt="logo">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="height:20px;">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0"
+                                                       style="max-width:670px;background:#fff; border-radius:3px; text-align:center;-webkit-box-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);">
+                                                    <tr>
+                                                        <td style="height:40px;">&nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding:0 35px;">
+                                                            <h1 style="color:#1e1e2d; font-weight:500; margin:0;font-size:28px;font-family: \'Open Sans\', sans-serif;">Forgort Password!</h1>
+                                                            <span style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #cecece; width:100px;"></span>
+                                                            <p style="color:#455056; font-size:15px;line-height:24px; margin:0;">
+                                                                Name :  ' . $customer->getFullName() . ' <br>
+                                                                E-Mail :  ' . $customer->getEmail() . '  <br>
+                                                                Reference :  <a href="' . $referenceUrl . '">' . $referenceUrl . '</a>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="height:40px;">&nbsp;</td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        <tr>
+                                            <td style="height:20px;">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:center;">
+                                                <p style="font-size:14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height:18px; margin:0 0 0;">
+                                                    &copy; <strong>' . $setting->getSiteName() . '</strong></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="height:80px;">&nbsp;</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        </body>
+                        </html>
+                        ';
+
+        return implode(' ', $content);
+    }
+}

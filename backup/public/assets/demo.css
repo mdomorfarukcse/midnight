@@ -1,0 +1,24 @@
+ 
+
+.demo-title{
+    text-decoration: none;
+    border-bottom: none;
+    color: #081120;
+}
+
+
+.demo-title:hover{
+    border-bottom: 3px dotted #081120;
+}
+
+[data-cc="c-settings"]{
+    margin-right: .5em;
+}
+
+.warning{
+    margin-top: 2em;
+    color: #5a4c4c;
+    background: #ffefef;
+    padding: 1em;
+    border-radius: 0.5em;
+}

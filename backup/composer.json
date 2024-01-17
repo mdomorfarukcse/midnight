@@ -1,0 +1,27 @@
+{
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "ext-json": "*",
+    "ext-pdo": "*",
+    "ext-gd": "*",
+    "ext-curl": "*",
+    "ext-intl": "*",
+    "ext-dom": "*",
+    "symfony/http-foundation": "^5.3",
+    "phpmailer/phpmailer": "^6.5",
+    "phpoffice/phpspreadsheet": "^1.18",
+    "firebase/php-jwt": "^5.2",
+    "league/omnipay": "^3.2",
+    "omnipay/paypal": "^3.0",
+    "omnipay/mollie": "^5.4",
+    "omnipay/stripe": "^3.1",
+    "symfony/string": "^5.3",
+    "symfony/translation-contracts": "^2.5",
+    "twilio/sdk": "^6.38"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pemm\\": "App/"
+    }
+  }
+}

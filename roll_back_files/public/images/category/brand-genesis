@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html lang="en" class="home">
+<head>
+	<meta charset="utf-8">
+	<title>Chiptuningfile-service.com | Home</title>
+	<meta name="author" content="Chiptuningfile-service.com">
+	<meta name="description" content="Home">
+	<meta name="keywords" content="Home">
+	
+
+	
+	<meta property="og:title" content="Chiptuningfile-service.com | Home" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://chiptuningfile-service.com/" />
+	<meta property="og:description" content="Home" />
+	<meta property="og:site_name" content="Chiptuningfile-service.com" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:image" content="https://chiptuningfile-service.com/media/img/ChiptuningFileservice_og.png" />
+
+	<link rel="canonical" href="https://chiptuningfile-service.com/">
+
+	<!-- Icons -->
+	<link rel="icon" type="image/png" href="/favicon.png">
+	<meta name="theme-color" content="#e21b23">
+
+	<!-- Responsive & mobiel meta tags -->
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,700,900|Exo:800,800i" media="all">
+	<link rel="stylesheet" href="/media/css/app.css?id=09084cb0d9bd932a3bd5" media="all">
+	
+	
+			
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-94098540-1', 'auto');
+				ga('send', 'pageview');
+			</script>
+</head>
+
+<body>
+
+<div class="Top">
+	<div class="Container">
+
+		<div class="Top__tools">
+			<div class="Top__tools__language">
+				<div class="Top__tools__language__active"><span class="Top__tools__language__icon Top__tools__language__icon--en"></span><span class="Top__tools__language__icon--text">&nbsp;</span></div>
+				<div class="Top__tools__language__dropdown">
+					<a class="Top__tools__language__item" href="https://chiptuningfile-service.com/nl/"><span class="Top__tools__language__icon Top__tools__language__icon--nl"></span></a><a class="Top__tools__language__item" href="https://chiptuningfile-service.com/de/"><span class="Top__tools__language__icon Top__tools__language__icon--de"></span></a><a class="Top__tools__language__item" href="https://chiptuningfile-service.com/es/"><span class="Top__tools__language__icon Top__tools__language__icon--es"></span></a><a class="Top__tools__language__item" href="https://chiptuningfile-service.com/fr/"><span class="Top__tools__language__icon Top__tools__language__icon--fr"></span></a>
+				</div>
+			</div>
+			<a onclick="ga('send', 'event', 'Inloggen', 'click', 'Login')"  href="https://chiptuning.file-service.com/account/en/login" class="btn btn--ghost Top__login" title="Login">Login</a>
+			<a onclick="ga('send', 'event', 'Registreren', 'click', 'Register')" href="https://chiptuning.file-service.com/account/en/register" class="btn Top__register" title="Register">Register</a>
+		</div>
+
+		<div class="Top__logo">
+			<a href="https://chiptuningfile-service.com/" title="Chiptuningfile-service.com"><img src="/media/img/svg/ChiptuningFileservice.png" alt="Chiptuningfile-service.com" title="Chiptuningfile-service.com"></a>
+		</div>
+
+		<nav class="Navigation">
+			<ul>
+<li class="Navigation__item"><a class="Navigation__link Navigation__link--active" href="https://chiptuningfile-service.com/" title="Home">Home</a></li>
+<li class="Navigation__item"><a class="Navigation__link" href="https://chiptuningfile-service.com/chiptuning-files/" title="Chiptuning Files">Chiptuning Files</a></li>
+<li class="Navigation__item"><a class="Navigation__link" href="https://chiptuningfile-service.com/prices/" title="Prices">Prices</a></li>
+<li class="Navigation__item"><a class="Navigation__link" href="https://chiptuningfile-service.com/starter-kit/" title="Starter Kit">Starter Kit</a></li>
+<li class="Navigation__item"><a class="Navigation__link" href="https://chiptuningfile-service.com/chiptuning-tools/" title="Chiptuning Tools">Chiptuning Tools</a></li>
+<li class="Navigation__item"><a class="Navigation__link" href="https://chiptuningfile-service.com/about-us/" title="About us">About us</a></li>
+<li class="Navigation__item"><a class="Navigation__link" href="https://chiptuningfile-service.com/news/" title="News">News</a></li>
+<li class="Navigation__item"><a class="Navigation__link" href="https://chiptuningfile-service.com/contact-opening-hours/" title="Contact / Opening hours">Contact / Opening hours</a></li>
+</ul>
+
+		</nav>
+
+		<div class="menu-trigger">
+			<span></span>
+			Menu
+		</div>
+
+	</div>
+</div>
+
+
+<div class="Header">
+	<div class="parallax">
+	    <img class="adaptiveImage" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=" title="ONLINE SERVICE FOR HIGH QUALITY CUSTOM TUNING FILES" alt="ONLINE SERVICE FOR HIGH QUALITY CUSTOM TUNING FILES" data-path="/media/uploads/en/blocks/1/%folder%/Autotuner7.jpg" data-size-big="2000" data-size-tab="1500" data-size-retinaphone="1000" data-size-phone="500">
+	    <div class="Container">
+	        <div class="Header__content">
+	            <div class="Header__title">
+	            	ONLINE SERVICE FOR HIGH QUALITY CUSTOM TUNING FILES
+	            </div>
+	             <div class="Header__subtitle">We supply custom remapped files in only 4 steps. Login to start or create your own account completely free of charge!</div>
+	            <div class="Header__buttons">
+	            	<a onclick="ga('send', 'event', 'Inloggen', 'click', 'Login')"  href="https://chiptuning.file-service.com/account/en/login" class="btn btn--ghost Top__login" title="Login">Login</a>
+					<a onclick="ga('send', 'event', 'Registreren', 'click', 'Register')" href="https://chiptuning.file-service.com/account/en/register" class="btn Top__register" title="Register">Register</a>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+	<div class="Header__scroll-down"></div>
+</div>
+
+<div class="FileSpecs">
+	<div class="Container">
+		 
+		<div class="FileSpecs__title">ONLINE SERVICE FOR HIGH QUALITY CUSTOM TUNING FILES</div>
+		<form id="topForm" action="#">
+			<div id="selectWrapper" class="selectWrapper">
+				<div class="selectWrapper__fields">
+					<select name="brand_id" class="typeloader-brand_id" data-default-lbl="Choose your brand" data-value="~~SelectedBrand~~">
+						<option>Choose your brand</option>
+					</select>
+					<select name="model_id" class="typeloader-model_id" data-default-lbl="Choose your model" data-value="~~SelectedModel~~">
+						<option>Choose your model</option>
+					</select>
+					<select name="generation_id" class="typeloader-generation_id" data-default-lbl="Choose the generation" data-value="~~SelectedGeneration~~">
+						<option>Choose the generation</option>
+					</select>
+					<select name="product_id" class="typeloader-product_id" data-default-lbl="Choose the engine" data-value="~~SelectedProduct~~">
+						<option>Choose the engine</option>
+					</select>
+				</div>
+			</div>
+			<div id="buttonsWrapper">
+				<a href="https://chiptuningfile-service.com/chiptuning-files/" title="More information" class="btn btn_std typeloader-item-btn" data-baseurl="https://chiptuningfile-service.com/chiptuning-files/">Search</a>
+			</div>
+		</form>
+	
+	</div>
+</div>
+
+
+<div class="Content">
+	<div class="Container">
+		<main class="Content__main">
+			<div class="Grid">
+				<div class="Grid__col Grid__col--xs-60">
+					<h1>High quality and custom made chiptuning files</h1>
+
+<h2>in only 4 easy steps</h2>
+				</div>
+			</div>
+		</main>
+	</div>
+</div>
+
+
+<div class="htmlfragment"><div class="Steps-home">
+    <div class="Container">
+        <div class="Steps-home__grid">
+            <div class="Steps-home__col">
+                <div class="Steps-home__item Steps-home__item--account">
+                    <div class="Title-h3">Step 1</div>
+                    Register for free
+                </div>
+            </div>
+            <div class="Steps-home__col">
+                <div class="Steps-home__item Steps-home__item--payment">
+                    <div class="Title-h3">Step 2</div>
+                    Buy your credits safely using PayPal
+                </div>
+            </div>
+            <div class="Steps-home__col">    
+                <div class="Steps-home__item Steps-home__item--upload">
+                    <div class="Title-h3">Step 3</div>
+                    Upload your original file
+                </div>
+           </div>     
+           <div class="Steps-home__col">
+                <div class="Steps-home__item Steps-home__item--download">
+                    <div class="Title-h3">Step 4</div>
+                    Download your tuning file within an hour
+                </div>
+           </div>
+        </div>
+    </div>
+</div></div>
+<div class="clear"></div>
+
+
+<div class="htmlfragment"><div class="Createaccount-home">
+    <div class="Container">
+        <div class="Createaccount-home__title">Start right now with a free account</div>
+		<a onclick="ga('send', 'event', 'Registreren', 'click', 'Register-buttonsoverig')" class="knop btn--green" href="https://chiptuning.file-service.com" title="Register now">Register now</a>
+    </div>
+</div></div>
+<div class="clear"></div>
+
+<div class="ExtraContent">
+	<div class="Container">
+		<h1 style="text-align:center">Why choose ChiptuningFile-Service.com?</h1>
+
+<table border="0" cellpadding="0" cellspacing="0" class="responsive" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="vertical-align:middle; width:45%">
+			<p><img alt="Why choose ChiptuningFile-Service.com?" class="responsive" src="/media/uploads/image/visual-general-1.jpg" title="Why choose ChiptuningFile-Service.com?" /></p>
+			</td>
+			<td>&nbsp;</td>
+			<td style="vertical-align:middle; width:45%">
+			<h2>Practical experience</h2>
+
+			<p>We know and understand our customers because we have experience as a tuning company as well and therefore can resonate with our customers in a practical way. We understand the problems and difficulties tuning companies are facing when carrying out their daily activities.</p>
+
+			<p>Another distinctive factor is our user experience with tuning tools. We are familiar with all the tools and equipment available on the market and therefore can help our customers very well, even if they work with lesser known tools. We can even assist our customers with their daily activities by advising which tools to use in particular cases.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" class="responsive" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="vertical-align:middle; width:45%">
+			<h2>Excellent Support</h2>
+
+			<p>We also assist our customers with their tuning proces by providing an excellent support system. The support system makes it possible for customers to request custom adjustments when needed as not every vehicle reacts the same to adjustments and vehicles usually are not in the same condition. It is hard for us to check a vehicle&rsquo;s condition on a distance and that is why the support system is so useful. It really helps to serve customers in a better way, whether it concerns consumers or businesses.</p>
+
+			<p>We supply custom remapped files in only&nbsp;<strong>4 steps</strong>. That&#39;s what we call easy!</p>
+
+			<p><a class="btn" href="https://chiptuning.file-service.com/account/register" onclick="ga('send', 'event', 'Registreren', 'click', 'Register-buttonsoverig')" title="Register now">Register now</a></p>
+			</td>
+			<td>&nbsp;</td>
+			<td style="vertical-align:middle; width:45%"><div class="iframe-container-16-9"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/jU5zTBzk85c"></iframe></div></td>
+		</tr>
+	</tbody>
+</table>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="Blocks" style="background-image: url('/media/uploads/en/blocks/5/thumb/bg_blocks.jpg?_=1481632819');">
+	<div class="Container">
+		<div class="Grid">
+			
+<a class="Grid__col Grid__col--xs-60 Grid__col--md-30 Grid__col--lg-20 Block" href="https://chiptuningfile-service.com/about-us/" title="ChiptuningFile-Service.com" target="_self">
+	<div class="Block__image">
+		<img src="/media/uploads/en/blocks/4/thumb/winols_1.jpg?_=1487368135" alt="ChiptuningFile-Service.com" title="ChiptuningFile-Service.com">
+	</div>
+	<div class="Block__content">
+		<h2 class="Block__title">ChiptuningFile-Service.com</h2>
+		<p class="Block__text">ChiptuningFile-Service.com supplies custom made ECU tuning files for different gasoline, hybrid and diesel engines. These tuning files result in improved power and durable fuel consumption. Our tuning files are developed by tuners, for tuners.</p>
+		<span class="btn btn--ghost">Read more</span>
+	</div>
+</a>
+<a class="Grid__col Grid__col--xs-60 Grid__col--md-30 Grid__col--lg-20 Block" href="https://chiptuningfile-service.com/chiptuning-tools/" title="Chiptuning tools" target="_self">
+	<div class="Block__image">
+		<img src="/media/uploads/en/blocks/4/thumb/tuningtool_1.jpg?_=1487368234" alt="Chiptuning tools" title="Chiptuning tools">
+	</div>
+	<div class="Block__content">
+		<h2 class="Block__title">Chiptuning tools</h2>
+		<p class="Block__text">ChiptuningFile-Service.com owns all the tools and software needed for tuning motors. With the tools below, you will be able to copy the original engine map from the car and upload the file to our tuning service. We are official reseller of the Alientech, CMD, Autotuner, Magic Motorsport and Dimsport chiptuning tools.</p>
+		<span class="btn btn--ghost">Read more</span>
+	</div>
+</a>
+<a class="Grid__col Grid__col--xs-60 Grid__col--md-30 Grid__col--lg-20 Block" href="https://chiptuningfile-service.com/chiptuning-files/" title="Safety tested tuning files" target="_self">
+	<div class="Block__image">
+		<img src="/media/uploads/en/blocks/4/thumb/ChiptuningFile_Service.jpg?_=1481734339" alt="Safety tested tuning files" title="Safety tested tuning files">
+	</div>
+	<div class="Block__content">
+		<h2 class="Block__title">Safety tested tuning files</h2>
+		<p class="Block__text">All tuning files are extensively tested on our advanced dynamometer. Therefore ChiptuningFile-Service.com is able to develop high quality ECU tuning files, which are the ideal combination of more power and sustainable fuel.</p>
+		<span class="btn btn--ghost">Read more</span>
+	</div>
+</a>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="Blocks Recent-orders">
+	<div class="Container">
+		<div class="Title-h1">Recent transactions</div>
+		<div class="Grid">
+			
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 2 + Decat)</span>
+					<span class="Recent-orders__item__brand">VW</span> - <span class="Recent-orders__item__model">Golf GTI 2.0 TSI Performance 230hp</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 1)</span>
+					<span class="Recent-orders__item__brand">Porsche</span> - <span class="Recent-orders__item__model">Macan 2.0 TFSI 252hp (2019 -&amp;gt;)</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 2)</span>
+					<span class="Recent-orders__item__brand">Audi</span> - <span class="Recent-orders__item__model">A8 3.0 TDI 233hp (D3 - 2003 - 2010)</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 1)</span>
+					<span class="Recent-orders__item__brand">Mercedes-Benz</span> - <span class="Recent-orders__item__model">ML 350 CDI 258hp (W166 - 2011 -&gt;)</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 1)</span>
+					<span class="Recent-orders__item__brand">Volkswagen</span> - <span class="Recent-orders__item__model">Up 1.0i 75hp</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 2 + Vmax)</span>
+					<span class="Recent-orders__item__brand">BMW</span> - <span class="Recent-orders__item__model">3 serie 335i - N54 - 306hp</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 1)</span>
+					<span class="Recent-orders__item__brand">Honda</span> - <span class="Recent-orders__item__model">Accord 2.2 i-DTEC 150hp (All)</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 1)</span>
+					<span class="Recent-orders__item__brand">Volkswagen</span> - <span class="Recent-orders__item__model">Caddy 2.0 TDI CR 102hp</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+			<div class="Grid__col Grid__col--xs-60 Grid__col--sm-30 Grid__col--lg-20">
+				<div class="Recent-orders__item">
+					<span class="Recent-orders__item__tuning-type">Auto tuning (stage 2 + Decat)</span>
+					<span class="Recent-orders__item__brand">Mitsubishi</span> - <span class="Recent-orders__item__model">Lancer 2.0 DiD 140hp</span>
+					<span class="Recent-orders__item__date">File transferred on: 01/10/2021</span>
+				</div>
+			</div>
+		
+		</div>
+	</div>
+</div>
+
+
+
+<div class="Call-to-action">
+	<div class="Container">
+		<div class="Title-h2">Interested in tuning?</div>
+		<a href="https://chiptuningfile-service.com/contact-opening-hours/" title="Contact / Opening hours" class="btn btn--green">contact us</a>
+	</div>
+</div>
+
+
+		<div class="Logos-wrapper">
+			<div class="prev"></div>
+				<div class="Logos Logos--scroll">
+					<ul>
+	
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/acura/" title="Acura" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/6131-9b8912e2d4fc828d7d285d931153d979.jpg?_=1621236362" alt="Acura" class="Logos__image" title="Acura">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/alfa-romeo/" title="Alfa Romeo" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/37-logo-alfa-romeo.jpg?_=1580132926" alt="Alfa Romeo" class="Logos__image" title="Alfa Romeo">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/alpina/" title="Alpina" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/137-alpina-log.jpg?_=1580132975" alt="Alpina" class="Logos__image" title="Alpina">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/alpine/" title="Alpine" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/185-alpine-emblem-1920x1080.jpg?_=1580132989" alt="Alpine" class="Logos__image" title="Alpine">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/aston-martin/" title="Aston Martin" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/127-aston-martin-logo-60.jpg?_=1580132971" alt="Aston Martin" class="Logos__image" title="Aston Martin">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/audi/" title="Audi" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/39-chiptuning-audi.jpg?_=1580132927" alt="Audi" class="Logos__image" title="Audi">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/bentley/" title="Bentley" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/144-bentley-logo.jpg?_=1580132977" alt="Bentley" class="Logos__image" title="Bentley">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/bmw/" title="BMW" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/41-chiptuning-bmw.jpg?_=1580132928" alt="BMW" class="Logos__image" title="BMW">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/buick/" title="Buick" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/130-buicklogo-2015.jpg?_=1580132973" alt="Buick" class="Logos__image" title="Buick">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/cadillac/" title="Cadillac" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/65-chiptuning-cadillac.jpg?_=1580132941" alt="Cadillac" class="Logos__image" title="Cadillac">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/case/" title="Case" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/168-case.jpg?_=1580132985" alt="Case" class="Logos__image" title="Case">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/caterpillar/" title="Caterpillar" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/169-caterpillar.jpg?_=1580132985" alt="Caterpillar" class="Logos__image" title="Caterpillar">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/challenger/" title="Challenger" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/170-logo-challenger.jpg?_=1580132985" alt="Challenger" class="Logos__image" title="Challenger">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/changan/" title="Changan" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/132-logo-changan.jpg?_=1580132974" alt="Changan" class="Logos__image" title="Changan">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/chevrolet/" title="Chevrolet" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/93-chiptuning-chevrolet.jpg?_=1580132956" alt="Chevrolet" class="Logos__image" title="Chevrolet">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/chrysler/" title="Chrysler" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/73-chiptuning-chrysler.jpg?_=1580132945" alt="Chrysler" class="Logos__image" title="Chrysler">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/citroen/" title="Citro&euml;n" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/43-chiptuning-citroen.jpg?_=1580132930" alt="Citro&euml;n" class="Logos__image" title="Citro&euml;n">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/claas/" title="Claas" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/171-claas.jpg?_=1580132986" alt="Claas" class="Logos__image" title="Claas">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/cupra/" title="Cupra" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/166-seat-cupra-logo-wit.jpg?_=1580132984" alt="Cupra" class="Logos__image" title="Cupra">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/dacia/" title="Dacia" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/111-chiptuning-dacia.jpg?_=1580132965" alt="Dacia" class="Logos__image" title="Dacia">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/daewoo/" title="Daewoo" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/140-daewoo-auto-logo.jpg?_=1580132976" alt="Daewoo" class="Logos__image" title="Daewoo">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/daf/" title="DAF" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/119-chiptuning-daf.jpg?_=1580132969" alt="DAF" class="Logos__image" title="DAF">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/dallara/" title="Dallara" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/6112-dallara-logo.jpg?_=1620312936" alt="Dallara" class="Logos__image" title="Dallara">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/deutz-fahr/" title="Deutz Fahr" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/172-deutz-fahr.jpg?_=1580132986" alt="Deutz Fahr" class="Logos__image" title="Deutz Fahr">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/dodge/" title="Dodge" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/99-dodge-logo-1994.jpg?_=1580132959" alt="Dodge" class="Logos__image" title="Dodge">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/ds/" title="DS" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/143-ds-logo.jpg?_=1580132977" alt="DS" class="Logos__image" title="DS">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/fendt/" title="Fendt" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/173-fendt-1.jpg?_=1580132986" alt="Fendt" class="Logos__image" title="Fendt">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/ferrari/" title="Ferrari" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/148-ferrari-logo2.jpg?_=1580132979" alt="Ferrari" class="Logos__image" title="Ferrari">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/fiat/" title="Fiat" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/45-chiptuning-fiat.jpg?_=1580132931" alt="Fiat" class="Logos__image" title="Fiat">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/ford/" title="Ford" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/67-ford-logo-1976-1366x768.jpg?_=1580132942" alt="Ford" class="Logos__image" title="Ford">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/geely/" title="Geely" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/186-geely-logo.jpg?_=1580132989" alt="Geely" class="Logos__image" title="Geely">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/genesis/" title="Genesis" class="Logos__logo Logos__logo--no-float">
+					<img src="" alt="Genesis" class="Logos__image" title="Genesis">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/gmc/" title="GMC" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/156-gmc-emblem-6.jpg?_=1580132983" alt="GMC" class="Logos__image" title="GMC">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/gwm/" title="GWM" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/129-gwm-logo.jpg?_=1580132972" alt="GWM" class="Logos__image" title="GWM">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/holden/" title="Holden" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/157-holden-logo-2.jpg?_=1580132983" alt="Holden" class="Logos__image" title="Holden">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/honda/" title="Honda" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/71-chiptuning-honda.jpg?_=1580132944" alt="Honda" class="Logos__image" title="Honda">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/hummer/" title="Hummer" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/158-hummer-trucks-logo-emblem.jpg?_=1580132983" alt="Hummer" class="Logos__image" title="Hummer">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/hyundai/" title="Hyundai" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/69-chiptuning-hyundai.jpg?_=1580132943" alt="Hyundai" class="Logos__image" title="Hyundai">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/infiniti/" title="Infiniti" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/117-chiptuning-infiniti.jpg?_=1580132968" alt="Infiniti" class="Logos__image" title="Infiniti">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/isuzu/" title="Isuzu" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/113-chiptuning-isuzu.jpg?_=1580132966" alt="Isuzu" class="Logos__image" title="Isuzu">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/iveco/" title="Iveco" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/90-chiptuning-iveco.jpg?_=1580132955" alt="Iveco" class="Logos__image" title="Iveco">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/jac/" title="Jac" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/187-jac-motors.jpg?_=1580132989" alt="Jac" class="Logos__image" title="Jac">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/jaguar/" title="Jaguar" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/95-chiptuning-jaguar.jpg?_=1580132957" alt="Jaguar" class="Logos__image" title="Jaguar">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/jcb/" title="JCB" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/174-jcb.jpg?_=1580132986" alt="JCB" class="Logos__image" title="JCB">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/jeep/" title="Jeep" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/77-chiptuning-jeep.jpg?_=1580132947" alt="Jeep" class="Logos__image" title="Jeep">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/john-deere/" title="John Deere" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/175-green-yellow-vert-logo.jpg?_=1580132986" alt="John Deere" class="Logos__image" title="John Deere">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/kia/" title="Kia" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/75-chiptuning-kia.jpg?_=1580132946" alt="Kia" class="Logos__image" title="Kia">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/krone/" title="Krone" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/176-brand-krone.jpg?_=1580132987" alt="Krone" class="Logos__image" title="Krone">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/lamborghini/" title="Lamborghini" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/150-lamborghini-logo-svg.jpg?_=1580132980" alt="Lamborghini" class="Logos__image" title="Lamborghini">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/lamborghini-tractors/" title="Lamborghini Tractors" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/184-logo-lamborghini-trattori.jpg?_=1580132988" alt="Lamborghini Tractors" class="Logos__image" title="Lamborghini Tractors">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/lancia/" title="Lancia" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/97-chiptuning-lancia.jpg?_=1580132958" alt="Lancia" class="Logos__image" title="Lancia">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/land-rover/" title="Land Rover" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/87-chiptuning-landrover.jpg?_=1580132953" alt="Land Rover" class="Logos__image" title="Land Rover">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/lexus/" title="Lexus" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/135-chiptuning-lexus-logo.jpg?_=1580132974" alt="Lexus" class="Logos__image" title="Lexus">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/lincoln/" title="Lincoln" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/163-lincoln-logo-2.jpg?_=1580132984" alt="Lincoln" class="Logos__image" title="Lincoln">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/lindner/" title="Lindner" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/177-lindner.jpg?_=1580132987" alt="Lindner" class="Logos__image" title="Lindner">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/lotus/" title="Lotus" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/154-lotus-logo-3000x3000.jpg?_=1580132982" alt="Lotus" class="Logos__image" title="Lotus">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/luxgen/" title="Luxgen" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/142-download.jpg?_=1580132977" alt="Luxgen" class="Logos__image" title="Luxgen">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/lynk-and-co/" title="Lynk &amp; Co" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/4793-lynk-and-co-logo.jpg?_=1590568667" alt="Lynk &amp; Co" class="Logos__image" title="Lynk &amp; Co">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mack/" title="Mack" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/167-mack.jpg?_=1580132985" alt="Mack" class="Logos__image" title="Mack">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mahindra/" title="Mahindra" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/134-mahindra-logo.jpg?_=1580132974" alt="Mahindra" class="Logos__image" title="Mahindra">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/man/" title="MAN" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/120-chiptuning-man.jpg?_=1580132969" alt="MAN" class="Logos__image" title="MAN">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/maserati/" title="Maserati" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/125-maserati-vector-logo-by-w0lfb0i.jpg?_=1580132970" alt="Maserati" class="Logos__image" title="Maserati">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/massey-fergusson/" title="Massey Fergusson" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/178-massey-freguson.jpg?_=1580132987" alt="Massey Fergusson" class="Logos__image" title="Massey Fergusson">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mazda/" title="Mazda" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/107-chiptuning-mazda.jpg?_=1580132963" alt="Mazda" class="Logos__image" title="Mazda">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mccormick/" title="McCormick" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/179-mccormick-logo.jpg?_=1580132987" alt="McCormick" class="Logos__image" title="McCormick">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mclaren/" title="McLaren" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/152-mclaren-logo-1997-1920x1080.jpg?_=1580132981" alt="McLaren" class="Logos__image" title="McLaren">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mercedes-benz/" title="Mercedes-Benz" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/47-chiptuning-mercedes-benz.jpg?_=1580132932" alt="Mercedes-Benz" class="Logos__image" title="Mercedes-Benz">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mercedes-benz-trucks/" title="Mercedes-Benz Trucks" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/121-chiptuning-mercedes-benz-1.jpg?_=1580132969" alt="Mercedes-Benz Trucks" class="Logos__image" title="Mercedes-Benz Trucks">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mercury/" title="Mercury" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/164-mercury-logo.jpg?_=1580132984" alt="Mercury" class="Logos__image" title="Mercury">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mg/" title="MG" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/133-logo-mg.jpg?_=1580132974" alt="MG" class="Logos__image" title="MG">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mini/" title="Mini" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/85-chiptuning-mini.jpg?_=1580132952" alt="Mini" class="Logos__image" title="Mini">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/mitsubishi/" title="Mitsubishi" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/49-chiptuning-mitsubishi.jpg?_=1580132933" alt="Mitsubishi" class="Logos__image" title="Mitsubishi">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/new-holland/" title="New Holland" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/180-new-holland.jpg?_=1580132988" alt="New Holland" class="Logos__image" title="New Holland">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/nissan/" title="Nissan" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/81-chiptuning-nissan.jpg?_=1580132949" alt="Nissan" class="Logos__image" title="Nissan">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/oldsmobile/" title="Oldsmobile" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/159-oldsmobile-symbol-1996-1920x1080.jpg?_=1580132983" alt="Oldsmobile" class="Logos__image" title="Oldsmobile">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/opel/" title="Opel" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/61-chiptuning-opel.jpg?_=1580132939" alt="Opel" class="Logos__image" title="Opel">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/peugeot/" title="Peugeot" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/51-chiptuning-peugeot.jpg?_=1580132934" alt="Peugeot" class="Logos__image" title="Peugeot">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/pontiac/" title="Pontiac" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/160-pontiac-logo-2560x1440.jpg?_=1580132983" alt="Pontiac" class="Logos__image" title="Pontiac">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/porsche/" title="Porsche" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/53-chiptuning-porsche.jpg?_=1580132935" alt="Porsche" class="Logos__image" title="Porsche">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/renault/" title="Renault" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/55-chiptuning-renault.jpg?_=1580132936" alt="Renault" class="Logos__image" title="Renault">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/renault-truck/" title="Renault truck" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/89-chiptuning-renault-trucks.jpg?_=1580132955" alt="Renault truck" class="Logos__image" title="Renault truck">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/roewe/" title="Roewe" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/141-logo-roewe.jpg?_=1580132977" alt="Roewe" class="Logos__image" title="Roewe">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/rolls-royce/" title="Rolls Royce" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/188-rolls-royce-motor-cars-logo-svg.jpg?_=1580132989" alt="Rolls Royce" class="Logos__image" title="Rolls Royce">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/rover/" title="Rover" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/115-chiptuning-rover.jpg?_=1580132967" alt="Rover" class="Logos__image" title="Rover">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/saab/" title="Saab" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/83-chiptuning-saab.jpg?_=1580132950" alt="Saab" class="Logos__image" title="Saab">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/same/" title="Same" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/181-same.jpg?_=1580132988" alt="Same" class="Logos__image" title="Same">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/saturn/" title="Saturn" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/161-saturn-logo.jpg?_=1580132984" alt="Saturn" class="Logos__image" title="Saturn">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/scania-trucks/" title="Scania trucks" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/92-chiptuning-skania-trucks.jpg?_=1580132956" alt="Scania trucks" class="Logos__image" title="Scania trucks">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/seat/" title="Seat" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/57-chiptuning-seat.jpg?_=1580132937" alt="Seat" class="Logos__image" title="Seat">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/skoda/" title="Skoda" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/59-chiptuning-skoda.jpg?_=1580132938" alt="Skoda" class="Logos__image" title="Skoda">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/smart/" title="Smart" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/105-smart-logo-3.jpg?_=1580132962" alt="Smart" class="Logos__image" title="Smart">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/ssangyong/" title="SsangYong" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/103-chiptuning-ssangyong.jpg?_=1580132961" alt="SsangYong" class="Logos__image" title="SsangYong">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/steyr/" title="Steyr" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/182-steyr.jpg?_=1580132988" alt="Steyr" class="Logos__image" title="Steyr">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/subaru/" title="Subaru" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/123-chiptuning-subaru.jpg?_=1580132969" alt="Subaru" class="Logos__image" title="Subaru">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/suzuki/" title="Suzuki" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/101-chiptuning-suzuki.jpg?_=1580132960" alt="Suzuki" class="Logos__image" title="Suzuki">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/tesla/" title="Tesla" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/165-tesla-logo-2003-2500x2500.jpg?_=1580132984" alt="Tesla" class="Logos__image" title="Tesla">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/toyota/" title="Toyota" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/109-chiptuning-toyota.jpg?_=1580132964" alt="Toyota" class="Logos__image" title="Toyota">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/valtra/" title="Valtra" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/183-valtra.jpg?_=1580132988" alt="Valtra" class="Logos__image" title="Valtra">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/vauxhall/" title="Vauxhall" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/162-vauxhall-logo-2008-red-2560x1440.jpg?_=1580132984" alt="Vauxhall" class="Logos__image" title="Vauxhall">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/volkswagen/" title="Volkswagen" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/63-chiptuning-volkswagen.jpg?_=1580132940" alt="Volkswagen" class="Logos__image" title="Volkswagen">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/volvo/" title="Volvo" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/79-chiptuning-volvo.jpg?_=1580132948" alt="Volvo" class="Logos__image" title="Volvo">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/volvo-trucks/" title="Volvo Trucks" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/122-chiptuning-volvo-1.jpg?_=1580132969" alt="Volvo Trucks" class="Logos__image" title="Volvo Trucks">
+				</a>
+			</li>
+		
+			<li>
+				<a href="https://chiptuningfile-service.com/chiptuning-files/wey/" title="WEY" class="Logos__logo Logos__logo--no-float">
+					<img src="/media/images/brands/thumb/189-1-1g2240033134a.jpg?_=1580132989" alt="WEY" class="Logos__image" title="WEY">
+				</a>
+			</li>
+		
+					</ul>
+				</div>
+			<div class="next"></div>
+		</div>
+	
+
+<footer class="Footer">
+	<div class="Container">
+		<div class="Grid">
+			<div class="Grid__col Grid__col--xs-60 Grid__col--md-30">
+				<div class="Footer__left">
+					<div class="Title-h2">Contact information</div>
+					<div itemscope itemtype="http://schema.org/Organization">
+						<div class="Footer__address">
+							<span itemprop="name">Chiptuningfile-service.com</span><br>
+							<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+								<span itemprop="streetAddress">Weerenweg 9C</span><br>
+								<span itemprop="postalCode">1161AE</span> <span itemprop="addressLocality">Zwanenburg</span><br>
+								<span itemprop="addressCountry">Netherlands</span>
+							</div>
+						</div>
+
+						<div class="Footer__contact">
+							T : <span itemprop="telephone" onclick="ga('send', 'event', 'Contact', 'click', 'Bellenmobiel')">+31 (0)6 53 29 24 48</span>  <br>
+							E : <a href="mailto:info@chiptuningfile-service.com" title="info@chiptuningfile-service.com" itemprop="email">info@chiptuningfile-service.com</a>
+						</div>
+					</div>
+
+					<div class="Footer__social">
+						
+		<div class="Social-icons">
+			<a href="https://www.facebook.com/Chiptuningfileservice.nl/" title="Follow us on Facebook" class="Footer__social__button Footer__social__button--facebook" target="_blank"></a>
+	    </div>
+	
+					</div>
+				</div>
+			</div>
+
+			<div class="Grid__col Grid__col--xs-60 Grid__col--md-30">
+				<div class="Footer__right">
+					<div class="Title-h2">Opening hours</div>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Monday</td>
+			<td>08:00 t/m 18:00</td>
+		</tr>
+		<tr>
+			<td>Tuesday</td>
+			<td>08:00 t/m 18:00</td>
+		</tr>
+		<tr>
+			<td>Wednesday</td>
+			<td>08:00 t/m 18:00</td>
+		</tr>
+		<tr>
+			<td>Thursday</td>
+			<td>08:00 t/m 18:00</td>
+		</tr>
+		<tr>
+			<td>Friday</td>
+			<td>08:00 t/m 18:00</td>
+		</tr>
+		<tr>
+			<td>Saturday</td>
+			<td>08:00 t/m 17:00</td>
+		</tr>
+	</tbody>
+</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<div class="Footer-extra">
+	<div class="Container">
+		<div class="Footer-extra__nav">
+			<a href="https://chiptuningfile-service.com/terms/" title="Terms and Conditions">Terms and Conditions</a> <span>|</span> <a href="https://chiptuningfile-service.com/privacy/" title="Privacy">Privacy</a> <span>|</span> <a href="https://chiptuningfile-service.com/sitemap/" title="Sitemap">Sitemap</a> <span>|</span> &copy;&nbsp;2021&nbsp;Chiptuningfile-service.com
+		</div>
+
+		<div class="Footer-extra__author">
+			<a href="https://www.templatefabriek.nl/" title="Website laten maken" target="_blank">Website: TemplateFabriek</a>
+		</div>
+	</div>
+</div>
+
+<div class="ContactButtons">
+	<div class="ContactButtons__button ContactButtons__button--phone">
+        <div class="icon"></div><a onclick="ga('send', 'event', 'Contact', 'click', 'Bellenmobiel')" href="tel:+310653292448" title="+31 (0)6 53 29 24 48">+31 (0)6 53 29 24 48</a>
+    </div>
+    <div class="ContactButtons__button ContactButtons__button--whatapp">
+        <div class="icon"></div><a href="https://wa.me/31653292448" title="+31 (0)6 53 29 24 48" target="_blank">+31 (0)6 53 29 24 48</a>
+    </div>
+    <div class="ContactButtons__button ContactButtons__button--email">
+        <div class="icon"></div><a href="mailto:info@chiptuningfile-service.com" title="info@chiptuningfile-service.com">info@chiptuningfile-service.com</a>
+    </div>
+</div>
+
+<div class="Scroll-up"></div>
+
+<!-- Javascript -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="/media/js/app.js?id=87534dd9648f5205e904"></script>
+
+</body>
+</html>
